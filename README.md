@@ -9,11 +9,3 @@
 <a href="https://jameswiens.dev/">
   <img align="left" alt="Gmail" height="32px" src="https://img.shields.io/static/v1?label=www&message=jameswiens.dev&color=555&logo=About.me&style=for-the-badge" />
 </a>
-
-<br />
-<br />
-
----
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aretecode&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs,issues&include_all_commits=true" />
-
